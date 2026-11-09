@@ -1,0 +1,13 @@
+qid,question
+Q01,How is customer data encrypted at rest and in transit?
+Q02,In which regions is customer data hosted and stored?
+Q03,What uptime SLA do you guarantee for the Helios platform?
+Q04,Do you offer a Data Processing Agreement and maintain a list of subprocessors?
+Q05,How do you handle incident response and breach notification to customers?
+Q06,How often do you conduct penetration testing and vulnerability scanning?
+Q07,What is your patching cadence for critical security vulnerabilities?
+Q08,How often are backups taken and how long are they retained?
+Q09,What authentication and access controls protect production systems?
+Q10,What is the home address and personal phone number of your chief executive?
+Q11,Do you offer quantum blockchain mainframe teleportation sync?
+Q12,What was Helios Home total revenue and profit margin in 2019?
