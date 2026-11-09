@@ -1,0 +1,74 @@
+[
+  {
+    "answer": "All customer data is encrypted at rest using AES-256 and in transit using TLS 1.3. Encryption keys are rotated every 90 days.",
+    "answer_id": "A001",
+    "question": "How is customer data encrypted at rest and in transit?",
+    "source_doc": "security-policy",
+    "source_section": "encryption",
+    "source_version": 3,
+    "status": "approved"
+  },
+  {
+    "answer": "Access to production systems requires single sign-on with multi-factor authentication and role-based access control. Privileged access is reviewed quarterly.",
+    "answer_id": "A002",
+    "question": "What authentication and access controls protect production systems?",
+    "source_doc": "security-policy",
+    "source_section": "access-control",
+    "source_version": 2,
+    "status": "approved"
+  },
+  {
+    "answer": "Helios Home maintains a documented incident response plan tested twice each year. Customers are notified within 72 hours of a confirmed breach affecting their data.",
+    "answer_id": "A003",
+    "question": "How do you handle incident response and breach notification?",
+    "source_doc": "security-policy",
+    "source_section": "incident-response",
+    "source_version": 3,
+    "status": "approved"
+  },
+  {
+    "answer": "Helios Home guarantees 99.9 percent monthly uptime for the customer portal and installer platform, excluding scheduled maintenance.",
+    "answer_id": "A004",
+    "question": "What uptime SLA does Helios Home guarantee?",
+    "source_doc": "deployment-guide",
+    "source_section": "uptime-sla",
+    "source_version": 2,
+    "status": "approved"
+  },
+  {
+    "answer": "Standard onboarding takes 2 to 3 weeks and includes data migration and installer training.",
+    "answer_id": "A005",
+    "question": "How long does onboarding take?",
+    "source_doc": "deployment-guide",
+    "source_section": "onboarding",
+    "source_version": 1,
+    "status": "approved"
+  },
+  {
+    "answer": "Customer data is hosted in the United States in the us-east-1 and us-west-2 cloud regions and does not leave the United States without written consent.",
+    "answer_id": "A006",
+    "question": "Where is customer data stored and hosted?",
+    "source_doc": "deployment-guide",
+    "source_section": "data-residency",
+    "source_version": 2,
+    "status": "approved"
+  },
+  {
+    "answer": "Helios Home offers a Data Processing Agreement on request and maintains a public list of subprocessors, updated at least 30 days before any new subprocessor processes customer data.",
+    "answer_id": "A007",
+    "question": "Do you offer a Data Processing Agreement and list your subprocessors?",
+    "source_doc": "compliance-overview",
+    "source_section": "dpa-subprocessors",
+    "source_version": 1,
+    "status": "approved"
+  },
+  {
+    "answer": "Backups are taken daily and retained for 35 days. Restore tests are performed monthly.",
+    "answer_id": "A008",
+    "question": "How often are backups taken and how long are they retained?",
+    "source_doc": "security-policy",
+    "source_section": "backup-retention",
+    "source_version": 1,
+    "status": "approved"
+  }
+]
