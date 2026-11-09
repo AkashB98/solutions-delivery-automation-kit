@@ -1,0 +1,63 @@
+{
+  "cases": [
+    {
+      "answer_id": "A001",
+      "kind": "library",
+      "qid": "Q01"
+    },
+    {
+      "answer_id": "A006",
+      "kind": "library",
+      "qid": "Q02"
+    },
+    {
+      "answer_id": "A004",
+      "kind": "library",
+      "qid": "Q03"
+    },
+    {
+      "answer_id": "A007",
+      "kind": "library",
+      "qid": "Q04"
+    },
+    {
+      "answer_id": "A003",
+      "kind": "library",
+      "qid": "Q05"
+    },
+    {
+      "doc_id": "security-policy",
+      "kind": "retrieval",
+      "qid": "Q06",
+      "section_id": "penetration-testing"
+    },
+    {
+      "doc_id": "security-policy",
+      "kind": "retrieval",
+      "qid": "Q07",
+      "section_id": "patching"
+    },
+    {
+      "answer_id": "A008",
+      "kind": "stale",
+      "qid": "Q08"
+    },
+    {
+      "answer_id": "A002",
+      "kind": "stale",
+      "qid": "Q09"
+    },
+    {
+      "kind": "unanswerable",
+      "qid": "Q10"
+    },
+    {
+      "kind": "unanswerable",
+      "qid": "Q11"
+    },
+    {
+      "kind": "unanswerable",
+      "qid": "Q12"
+    }
+  ]
+}
